@@ -8,6 +8,7 @@ Key highlights:
 3)Actively engaged in developing the data model, executing data transformations, and employing DAX for precise analysis and reporting purposes.
 
 PBIX File link:https://drive.google.com/file/d/1O2FTIFRkCloy82NR2lyDFUhGQh4mwM60/view?usp=sharing
+Template link:https://www.canva.com/design/DAF0lHpLmHs/2fxidDz1yfyvipO-sploHA/edit?utm_content=DAF0lHpLmHs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
