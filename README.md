@@ -3,9 +3,12 @@
 Completed this project as part of my BI project with powerbi internship with UNP,focusing on analyzing OWID COVID data
 Key highlights:
 
-1)I helped create complex KPIs and interactive PowerBI interfaces.
-2)Collaborated with team members, grasped data requirements, and translated them into effective PowerBI solutions.
-3)Actively engaged in developing the data model, executing data transformations, and employing DAX for precise analysis and reporting purposes.
+Exploring the "owid_covid" dataset to grasp COVID-19 trends, demographics, and health data.
+Crafting visualizations using Power BI, learning to represent data effectively.
+Mastering DAX measures to calculate metrics like Hospitalization Rate and Total Cases.
+Iteratively observing trends and anomalies in the data to draw meaningful insights.
+Gaining context about the pandemic's broader implications on data trends.
+Receiving feedback and refining visualizations to enhance data storytelling.
 
 PBIX File link:https://drive.google.com/file/d/1O2FTIFRkCloy82NR2lyDFUhGQh4mwM60/view?usp=sharing
 PDF link:https://drive.google.com/file/d/1NtkhuHx1YAQkk8Ta9XtbJXMfmDm_cm4-/view?usp=sharing
